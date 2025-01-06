@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Jalandhar": "Jalandhar"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58095740361372,
+          31.327844904387504
+        ],
+        "type": "Point"
+      },
+      "id": 0,
+      "lat": 31.327844904387504,
+      "lng": 75.58095740361372
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bareily": "Bareily"
+      },
+      "geometry": {
+        "coordinates": [
+          82.13180341173285,
+          27.344398017457905
+        ],
+        "type": "Point"
+      },
+      "id": 1,
+      "lat": 27.344398017457905,
+      "lng": 82.13180341173285
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gwalior": "Gwalior"
+      },
+      "geometry": {
+        "coordinates": [
+          78.1488860003721,
+          26.204151457436964
+        ],
+        "type": "Point"
+      },
+      "id": 2,
+      "lat": 26.204151457436964,
+      "lng": 78.1488860003721
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Indore": "Indore"
+      },
+      "geometry": {
+        "coordinates": [
+          75.85879366958366,
+          22.72440813730583
+        ],
+        "type": "Point"
+      },
+      "id": 3,
+      "lat": 22.72440813730583,
+      "lng": 75.85879366958366
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Jaipur": "Jaipur"
+      },
+      "geometry": {
+        "coordinates": [
+          75.81659109668848,
+          26.933935558064263
+        ],
+        "type": "Point"
+      },
+      "id": 4,
+      "lat": 26.933935558064263,
+      "lng": 75.81659109668848
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bhopal": "Bhopal"
+      },
+      "geometry": {
+        "coordinates": [
+          77.40170046399243,
+          23.279951491040137
+        ],
+        "type": "Point"
+      },
+      "id": 5,
+      "lat": 23.279951491040137,
+      "lng": 77.40170046399243
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kanpur": "Kanpur"
+      },
+      "geometry": {
+        "coordinates": [
+          80.31989714022757,
+          26.4765650316251
+        ],
+        "type": "Point"
+      },
+      "id": 6,
+      "lat": 26.4765650316251,
+      "lng": 80.31989714022757
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Karnal": "Karnal"
+      },
+      "geometry": {
+        "coordinates": [
+          76.99057158370607,
+          29.700439025868732
+        ],
+        "type": "Point"
+      },
+      "id": 7,
+      "lat": 29.700439025868732,
+      "lng": 76.99057158370607
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kota": "Kota"
+      },
+      "geometry": {
+        "coordinates": [
+          75.85431025229403,
+          25.215932815423386
+        ],
+        "type": "Point"
+      },
+      "id": 8,
+      "lat": 25.215932815423386,
+      "lng": 75.85431025229403
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ludhiana": "Ludhiana"
+      },
+      "geometry": {
+        "coordinates": [
+          75.79953100000006,
+          30.939459173190016
+        ],
+        "type": "Point"
+      },
+      "id": 9,
+      "lat": 30.939459173190016,
+      "lng": 75.79953100000006
+    }
+  ]
+}
